@@ -1,6 +1,7 @@
 This is a simple TODO App using react
 
-Troubleshoot: Check if react-scripts is Installed:
+TROUBLESHOOT:
+Check if react-scripts is Installed:
 
 Open your project's directory in the terminal and run: npm ls react-scripts if the react scripts are not found run command : ' npm install react-scripts --save ' and do command 'npm start'
 
